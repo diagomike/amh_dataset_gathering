@@ -1,0 +1,6 @@
+# docs.google.com automation
+pygame
+pyautogui
+pyperclip
+soundfile
+ffmpeg-python
